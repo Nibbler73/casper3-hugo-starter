@@ -6,7 +6,7 @@ summary = "Thank you to the authors of these images used in this theme demo"
 title = "Image Credit"
 
 +++
-All images are from [Unsplash](https://unsplash.com/ "Beautiful Free Images & Pictures").
+All images are from [Unsplash](https://unsplash.com/ "Beautiful Free Images & Pictures") and [Pixabay](https://pixabay.com/ "Stunning free images & royalty free stock").
 
 ![Fight for freedom stand with Hong Kong sticker](/images/claudio-schwarz-purzlbaum-tRDWFrkRMyU-unsplash.jpg)
 Photo by 🇨🇭 Claudio Schwarz | [@purzlbaum on Unsplash](https://unsplash.com/photos/tRDWFrkRMyU)
